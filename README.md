@@ -1,2 +1,2 @@
 # number-guess-trolling
-A small game I copied from a meme macro. You guess it right, you win. You guess it wrong, you lose your System32. This is a troll anyways, never tested.
+It's just a small game written in Python, code copied from a meme macro. It's all about guessing number 1 to 10, and if you lose, you may lose your System32 folder (and your beloved stuff storing inside it). Just for fun, however, I have never tested it. Do with caution, if it has enough permission, it may be destructible to your system files.
