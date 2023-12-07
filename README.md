@@ -5,4 +5,4 @@ It's just a small game written in Python, code copied from a meme macro. It's al
 
 ![image](https://github.com/Barnacl437/number-guess-trolling/assets/87983017/3701dec1-1337-44a1-a52b-00cbd617b84f)
 
-p/s: say, this thing may never be able to harm your PC, cuz the system is very hard-protected; also Linux users would be proud since they are not under a failure attempt. You might only get lucks trolling someone by deleting their personal folders, but don't do so. It's bad. Everything here is for archival purpose.
+p/s: say, this thing may never be able to harm your PC, cuz the system is very hard-protected; also Linux users would be proud since they are not under a vandalism attempt which is already determined to be failure. You might only get lucks trolling someone by deleting their personal folders, but don't do so. It's bad. Everything here is for archival purpose.
